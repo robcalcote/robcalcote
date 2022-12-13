@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rob
 - 👀 I’m interested in web development, gaming, or any cool tech!
-- 🌱 I’m currently learning React and Flask!
+- 🌱 I’m currently learning React and Typescript!
 - 📫 Twitter: @RobCalcote
 
 <!---
